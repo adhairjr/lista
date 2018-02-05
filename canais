@@ -1,16 +1,20 @@
 #EXTM3U
 #PLAYLISTV: pltv-logo="http://i.imgur.com/3PNkHQP.png" pltv-name="Pedro Júnior Tutoriais" pltv-description=A Melhor Lista IPTV Premium de Canais Grátis" pltv-cover="http://s30.postimg.org/4w34lok2p/canal_pedro_junior_tutoriais.jpg" pltv-author="Pedro Júnior Tutoriais" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="adhaircastro@hotmail.com" pltv-phone="(51) 98435-1782"
 
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Aberto",Globo SP
+http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Aberto",Globo RJ
+http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Aberto",Record
 https://ricmais.com.br/sc/streaming/show/ric_hd720.m3u8
 #EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="Aberto",SBT
 https://gbbrslbps-sambatech.akamaized.net/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
 #EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="Aberto",Band
-http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8
-#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",RedeTV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
+http://stmv3.srvstm.com:1935/rbatv12/rbatv12/playlist.m3u8
+#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="Aberto",RedeTV!
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="Aberto",Rede Brasil
-http://tv01.logicahost.com.br/rbtv/rbtv/playlist.m3u8
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="http://i.imgur.com/0uUPOMx.png" group-title="Aberto",TV Brasil
 http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8
 #EXTINF:-1 tvg-id="Tvescola.br" tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="Aberto",TV Escola HD
