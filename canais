@@ -13,19 +13,9 @@ https://gbbrslbps-sambatech.akamaized.net/liveevent/sbtabr_8fcdc5f0f8df8d4de56b2
 http://stmv3.srvstm.com:1935/rbatv12/rbatv12/playlist.m3u8
 #EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="Aberto",RedeTV!
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-#EXTINF:-1 tvg-id="Redebrasil.br" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="Aberto",Rede Brasil
-http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="http://i.imgur.com/0uUPOMx.png" group-title="Aberto",TV Brasil
 http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8
-#EXTINF:-1 tvg-id="Tvescola.br" tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="Aberto",TV Escola HD
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="Aberto",Gazeta HD
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
-#EXTINF:-1 tvg-id="Nbr.br" tvg-logo="http://i.imgur.com/if82162.png" group-title="Aberto",NBR
-http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
-#EXTINF:-1 tvg-id="Terraviva.br" tvg-logo="http://i.imgur.com/6vBfgpS.png" group-title="Aberto",Terra Viva
-http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="Aberto",Cultura HD
-http://177.73.84.49/hls/live/live.m3u8
-#EXTINF:-1 tvg-id="Futura.br" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="Aberto",Futura HD
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="Aberto",Cultura
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-id="Futura.br" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="Aberto",Futura
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
