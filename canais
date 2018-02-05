@@ -1,5 +1,7 @@
 #EXTM3U
 #PLAYLISTV: pltv-logo="http://i.imgur.com/3PNkHQP.png" pltv-name="Pedro Júnior Tutoriais" pltv-description=A Melhor Lista IPTV Premium de Canais Grátis" pltv-cover="http://s30.postimg.org/4w34lok2p/canal_pedro_junior_tutoriais.jpg" pltv-author="Pedro Júnior Tutoriais" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="adhaircastro@hotmail.com" pltv-phone="(51) 98435-1782"
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="test",test
-http://
+#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-logo="http://i.imgur.com/sQwm6Cl.png" group-title="Aberto",Rede Família
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="Aberto",Canal Rural
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
