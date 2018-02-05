@@ -1,21 +1,21 @@
 #EXTM3U
 #PLAYLISTV: pltv-logo="http://i.imgur.com/3PNkHQP.png" pltv-name="Pedro Júnior Tutoriais" pltv-description=A Melhor Lista IPTV Premium de Canais Grátis" pltv-cover="http://s30.postimg.org/4w34lok2p/canal_pedro_junior_tutoriais.jpg" pltv-author="Pedro Júnior Tutoriais" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="adhaircastro@hotmail.com" pltv-phone="(51) 98435-1782"
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Aberto",Globo SP
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Abertos",Globo SP
 http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="Globorj.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Aberto",Globo RJ
-http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Aberto",Record
+#EXTINF:-1 tvg-id="Globorj.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Abertos",Globo RJ
+http://165.227.65.252/tvglobosaopaulohd/mpeg.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Abertos",Record
 https://ricmais.com.br/sc/streaming/show/ric_hd720.m3u8
-#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="Aberto",SBT
+#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="Abertos",SBT
 https://gbbrslbps-sambatech.akamaized.net/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
-#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="Aberto",Band
+#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="Abertos",Band
 http://stmv3.srvstm.com:1935/rbatv12/rbatv12/playlist.m3u8
-#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="Aberto",RedeTV!
+#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="Abertos",RedeTV!
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="http://i.imgur.com/0uUPOMx.png" group-title="Aberto",TV Brasil
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="http://i.imgur.com/0uUPOMx.png" group-title="Abertos",TV Brasil
 http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="Aberto",Cultura
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="Abertos",Cultura
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 tvg-id="Futura.br" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="Aberto",Futura
+#EXTINF:-1 tvg-id="Futura.br" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="Abertos",Futura
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
