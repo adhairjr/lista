@@ -2,9 +2,9 @@
 #PLAYLISTV: pltv-logo="http://i.imgur.com/3PNkHQP.png" pltv-name="Pedro Júnior Tutoriais" pltv-description=A Melhor Lista IPTV Premium de Canais Grátis" pltv-cover="http://s30.postimg.org/4w34lok2p/canal_pedro_junior_tutoriais.jpg" pltv-author="Pedro Júnior Tutoriais" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="adhaircastro@hotmail.com" pltv-phone="(51) 98435-1782"
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Aberto",Globo SP
-http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8
+http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Globorj.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Aberto",Globo RJ
-http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8
+http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Aberto",Record
 https://ricmais.com.br/sc/streaming/show/ric_hd720.m3u8
 #EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="Aberto",SBT
