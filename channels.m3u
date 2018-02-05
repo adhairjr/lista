@@ -1,9 +1,0 @@
-#EXTM3U
-
-#PLAYLISTV: pltv-logo="http://i.imgur.com/3PNkHQP.png" pltv-name="Pedro Júnior Tutoriais" pltv-description=A Melhor Lista IPTV Premium de Canais Grátis" pltv-cover="" pltv-author="Pedro Júnior Tutoriais" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="adhaircastro@hotmail.com" pltv-phone="(51) 98435-1782"
-
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Aberto",Globo SP
-http://67.205.134.118/loadbalance/aovivonatv3/mpeg.ts
-
-#EXTINF:-1 tvg-id="Globorj.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Aberto",Globo RJ
-http://67.205.134.118/loadbalance/aovivonatv3/mpeg.ts
